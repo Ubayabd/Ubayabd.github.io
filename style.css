@@ -1,0 +1,60 @@
+ul {
+color:#88C8DA;
+font-family: sans-serif;
+font-size: 15px;
+}
+h1 {
+	text-align: center;
+	color: #EA9F5B;
+	font-family:  Monospace;
+	font-size: 40px;
+}
+h2 {
+	
+
+	color: #40A2C5;
+}
+.body {
+background-image: url("back.jpg");
+ 
+    /* Full height */
+    height: 100%; 
+    display: block;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ava{
+	position: absolute;
+	top:60px;
+	right: 15px;
+	width:150;
+	height: 250;
+}
+.text{
+	text-align: center ;
+	size: 15px;
+	
+
+}
+.mov {
+	position: absolute;
+	right: 750px;
+	color:#88C8DA;
+	size: ;
+	text-decoration: none;
+	font-family: fantasy;
+}
+.git {
+	position: absolute;
+	right: 750px;
+	color:#408000;
+	size: ;
+	text-decoration: none;
+	font-family: fantasy;
+}
+a{
+	size: 35px;
+}
